@@ -51,6 +51,14 @@ input[type=number] {
     padding: 7px;
 }
 
+input[type=username] {
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 7px;
+}
+
 input[type=password] {
     width: 100%;
     box-sizing: border-box;
