@@ -1,6 +1,6 @@
-body {
+/* body {
     background-color: lightgray;
-}
+} */
 
 * {
     box-sizing: border-box;
@@ -86,10 +86,10 @@ input[type=password] {
 }
 
 body {
-/*     font-family: 'Josefin Sans', serif;
+    font-family: 'Josefin Sans', serif;
     color: rgba(0, 0, 0, 0.8);
     background-color: rgba(199, 199, 247, 0.493);
-    border: #b3780c; */
+    border: #b3780c;
     border-left-width: 100px;
     border-right-width: 100px;
     border-top-width: 100px;
