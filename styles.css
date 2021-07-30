@@ -84,3 +84,14 @@ input[type=password] {
     color: rgb(146, 143, 143);
     font-size: 13px;
 }
+
+body {
+/*     font-family: 'Josefin Sans', serif;
+    color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(199, 199, 247, 0.493);
+    border: #b3780c; */
+    border-left-width: 100px;
+    border-right-width: 100px;
+    border-top-width: 100px;
+    border-bottom-width: 100px;
+}
